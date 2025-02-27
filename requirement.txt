@@ -1,0 +1,13 @@
+torch
+torchvision
+torchtext
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+transformers
+nltk
+tqdm
+jupyter
+notebook
