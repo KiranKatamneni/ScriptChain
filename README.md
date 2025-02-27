@@ -21,10 +21,16 @@ Disappointed 😞 <br />
 
 # Training Details
 
-Optimizer: Adam (lr=1e-4 with StepLR scheduler) <br />
-Batch Size: 32 <br />
-Epochs: 30 <br />
-Dropout: 0.2 <br />
-Validation Split: 20% <br />
+d_model: 128
+num_heads: 8
+num_layers: 3
+max_seq_len: 15
+num_classes: 4
+learning_rate: 1e-4
+step_size: 5
+batch_size: 32
+validation_split: 0.2
+epochs: 30
+
 
 
