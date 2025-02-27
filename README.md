@@ -13,7 +13,7 @@ Fully Connected Classifier: Converts Transformer outputs into sentiment labels.<
 Cross-Entropy Loss Function: Optimized using the Adam optimizer.
 
 # Dataset
-The dataset consists of 100 sentences labeled with four sentiment categories:
+The dataset consists of 100 sentences labeled with four sentiment categories: <br />
 Joyful 😃 <br />
 Frustrated 😡 <br />
 Excited 🚀 <br />
