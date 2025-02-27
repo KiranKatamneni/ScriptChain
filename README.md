@@ -21,15 +21,15 @@ Disappointed 😞 <br />
 
 # Training Details
 
--d_model: 128
--num_heads: 8
--num_layers: 3
--max_seq_len: 15
--num_classes: 4
--learning_rate: 1e-4
--step_size: 5
--batch_size: 32
--epochs: 30
+* d_model: 128
+* num_heads: 8
+* num_layers: 3
+* max_seq_len: 15
+* num_classes: 4
+* learning_rate: 1e-4
+* step_size: 5
+* batch_size: 32
+* epochs: 30
 
 
 
